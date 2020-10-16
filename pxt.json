@@ -1,0 +1,21 @@
+{
+    "name": "test broadcast",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "broadcast": "github:linsonli/broadcast#v0.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
